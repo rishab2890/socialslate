@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858683191868",
+    "firebase_url": "https://socialslate-1580f.firebaseio.com",
+    "project_id": "socialslate-1580f",
+    "storage_bucket": "socialslate-1580f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858683191868:android:18918c32b343ce36a64939",
+        "android_client_info": {
+          "package_name": "com.digibit.socialslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858683191868-k6kh8rk2h4n19btt2c4gdiavt5nqc8i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digibit.socialslate",
+            "certificate_hash": "a4ad2962f68f57f6f861f63d8957d5ab44a1dbae"
+          }
+        },
+        {
+          "client_id": "858683191868-429r2b55o5g9uksckcc44gtu9s9f4lkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFOLUi-P5lMN7gKHFv414Qyl1znR_EdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858683191868-429r2b55o5g9uksckcc44gtu9s9f4lkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
