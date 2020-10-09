@@ -12,4 +12,3 @@ class _PostState extends State<Post> {
     return Text("Post");
   }
 }
-
