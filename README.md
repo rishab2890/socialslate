@@ -1,3 +1,3 @@
 ### SocialSlate
 
-An instagram clone made in flutter and
+An instagram clone made in flutter and dart
