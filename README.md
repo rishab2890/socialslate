@@ -1,1 +1,1 @@
-#### SocialSlate
+### SocialSlate
